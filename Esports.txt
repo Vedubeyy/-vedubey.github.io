@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>REWOLT ESPORTZ</title>
+  <link 
+  href="style.css" rel="stylesheet" type="text/css" />
+  <center>
+  <button>  <h1 style="color: red;">REWOLT ESPORTZ</h1></button>
+</head>
+
+<body>
+  <h3>GIVE YOUR SKILLS A BOOST</h3>
+  <hr>
+  <h2>JOIN THE BEST ORG</h2>
+  <h3 style="color: red;">COMPETE AGAINST THE BEST</h3>
+  <h3>A COMPLETE NEW BATTLEFIELD FOR UNDERDOGS</h3>
+  
+  <img src="BGMI-1.jpg" alt="Image" width="250" height="250">
+  <hr />
+  
+  <button><a href="https://t.me/+TqdBj0R8oegwMDU1">JOIN US</a></button>
+  <hr>
+  <h3>REQUIREMENTS GIVEN BELOW </h3></center>
+<h5> 1] 1YEAR+ EXPERIENCE</h5>
+  
+ <h5>2] MUST HAVE 40+ LEVEL </h5>
+  <h5>3] RANK MUST BE DAIMOND </h5>
+  <h5>4] TIME MUST BE FLEXIBLE</h5>
+  <hr />
+    <center>
+  <h2>OUR ACHIEVEMENTS </h2>
+      <hr />
+      <h4>
+         50+ PROFESSIONAL PLAYERS 
+        
+      </h4>
+      <h4>
+         10+ UNOFFICIAL TOURNAMENT WINNER 🏆
+      </h4>
+      <hr />
+      <h2>
+GEAR UP YOURSELF AND JOIN US ON THIS AMAZING JOURNEY 
+</h2>
+      
+  <script src="script.js"></script>
+</body>
+
+</html>
